@@ -41,3 +41,4 @@ npm run build
 ```bash
 npm run preview
 ```
+# startup_intern_ass2
